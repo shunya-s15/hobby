@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int n;//集合の要素の数
+    int n;//集合の要素の数 とりあえず変更しました。
     int bit;
     int i,j;
     int shugou[100];
